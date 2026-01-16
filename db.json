@@ -1,0 +1,145 @@
+{
+  "settings": {
+    "siteName": "Team Unlocker GSM",
+    "siteTagline": "Team",
+    "siteTaglineHighlight": "Unlocker GSM",
+    "heroTitle": "Reliable",
+    "heroTitleHighlight": "Software Solutions",
+    "heroSubtitle": "Professional mobile software recovery, unlocking, and technical flashing services. Fast, secure, and remote.",
+    "telegramUsername": "TeamUnlockerGSM",
+    "telegramChannel": "TeamUnlockerGSM",
+    "securityWarningTitle": "Security Warning",
+    "securityWarningText": "Beware of scammers! We never contact you first on Telegram. All official communication happens ONLY through our official handle.",
+    "disclaimerTitle": "Legal & Disclaimer",
+    "disclaimerText": "All services provided on this platform are strictly for legal device owners only. We do not provide support for stolen, blacklisted, or illegally obtained devices. Our tools and services are intended for data recovery, software repair, and educational purposes. We reserve the right to refuse service if we suspect any fraudulent activity. By using this website, you agree that you are the lawful owner of the device being serviced.",
+    "footerDescription": "Your trusted partner for professional mobile software services and device recovery solutions.",
+    "systemsOnlineText": "Systems Online",
+    "servicesSectionTitle": "Our Services",
+    "servicesSectionSubtitle": "Professional software-level solutions",
+    "filesSectionTitle": "Firmware & Tools",
+    "filesSectionSubtitle": "Download verified GSM tools, ROMs, and utility packages for your devices.",
+    "paymentSectionTitle": "Payment Methods",
+    "paymentSectionSubtitle": "Flexible and secure payment options for global and local clients."
+  },
+  "navigation": [
+    { "label": "Home", "path": "/" },
+    { "label": "Firmware", "path": "/files" }
+  ],
+  "features": [
+    { "icon": "fa-user-shield", "title": "Safe & Secure", "desc": "We value your device privacy and security throughout the process." },
+    { "icon": "fa-headset", "title": "Expert Support", "desc": "Direct access to experienced GSM technicians via Telegram." },
+    { "icon": "fa-clock", "title": "Fast Turnaround", "desc": "Most software services are completed within minutes of order." }
+  ],
+  "brands": ["Xiaomi", "Samsung", "Oppo", "Vivo", "Realme", "OnePlus", "Huawei", "Google", "Apple", "Asus", "Motorola"],
+  "services": [
+    {
+      "id": "1",
+      "name": "Authorized Flashing",
+      "status": "ON",
+      "description": "Bypass auth for flashing official firmware on secure devices. Remote support via TeamViewer/AnyDesk.",
+      "supportedBrands": ["Xiaomi", "Oppo", "Vivo", "Realme"],
+      "icon": "fa-bolt",
+      "hidden": false
+    },
+    {
+      "id": "2",
+      "name": "FRP Removal",
+      "status": "ON",
+      "description": "Bypass Factory Reset Protection on almost any Android device including latest security patches.",
+      "supportedBrands": ["Samsung", "Huawei", "Xiaomi", "Motorola", "Google"],
+      "icon": "fa-lock-open",
+      "hidden": false
+    },
+    {
+      "id": "3",
+      "name": "Bootloader Unlock",
+      "status": "OFF",
+      "description": "Instant or wait-period bootloader unlocking for various models for root and custom ROMs.",
+      "supportedBrands": ["Xiaomi", "Sony", "OnePlus"],
+      "icon": "fa-key",
+      "hidden": false
+    },
+    {
+      "id": "4",
+      "name": "EDL Unbrick",
+      "status": "ON",
+      "description": "Fix hard-bricked devices stuck in EDL mode (9008). No data loss in some scenarios.",
+      "supportedBrands": ["Qualcomm Devices", "Xiaomi", "Asus"],
+      "icon": "fa-microchip",
+      "hidden": false
+    },
+    {
+      "id": "5",
+      "name": "MDM Bypass",
+      "status": "ON",
+      "description": "Remove corporate Management profile and restrictions from Apple and Samsung devices.",
+      "supportedBrands": ["iPhone", "iPad", "Samsung Knox"],
+      "icon": "fa-shield-halved",
+      "hidden": false
+    },
+    {
+      "id": "6",
+      "name": "Network Unlocking",
+      "status": "ON",
+      "description": "Permanent factory unlocking to use your device with any carrier worldwide.",
+      "supportedBrands": ["AT&T", "T-Mobile", "Verizon", "Global Carriers"],
+      "icon": "fa-signal",
+      "hidden": false
+    },
+    {
+      "id": "7",
+      "name": "Hidden Demo Service",
+      "status": "OFF",
+      "description": "This service is here for data but hidden from the UI.",
+      "supportedBrands": ["Test"],
+      "icon": "fa-eye-slash",
+      "hidden": true
+    }
+  ],
+  "files": [
+    {
+      "id": "f1",
+      "name": "Xiaomi Mi 13 Pro Global ROM",
+      "brand": "Xiaomi",
+      "model": "Mi 13 Pro",
+      "type": "ROM",
+      "version": "V14.0.10.0.TMBCNXM",
+      "size": "6.4 GB",
+      "downloadUrl": "#",
+      "updatedAt": "2023-10-15"
+    },
+    {
+      "id": "f2",
+      "name": "Samsung Odin Tool v3.14",
+      "brand": "Samsung",
+      "model": "Universal",
+      "type": "Tool",
+      "version": "3.14.4",
+      "size": "3.2 MB",
+      "downloadUrl": "#",
+      "updatedAt": "2024-01-05"
+    },
+    {
+      "id": "f3",
+      "name": "MTK Auth Bypass Tool",
+      "brand": "MediaTek",
+      "model": "Generic",
+      "type": "Utility",
+      "version": "V25",
+      "size": "18 MB",
+      "downloadUrl": "#",
+      "updatedAt": "2023-12-20"
+    },
+    {
+      "id": "f4",
+      "name": "OnePlus 11 Unbrick Tool",
+      "brand": "OnePlus",
+      "model": "PHB110",
+      "type": "ROM",
+      "version": "CPH2447_11_A.07",
+      "size": "5.1 GB",
+      "downloadUrl": "#",
+      "updatedAt": "2023-11-02"
+    }
+  ]
+}

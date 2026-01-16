@@ -1,0 +1,14 @@
+{
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "content": "At Team Unlocker GSM, we prioritize your privacy. We only collect minimal information necessary to process your service requests. \n\n1. Information Collection: We collect your device model, IMEI/Serial (for service processing), and your Telegram handle.\n2. Data Usage: Your data is used exclusively for fulfilling the requested service. We do not sell or share your data with third parties.\n3. Cookies: We do not use tracking cookies. Local storage is only used to remember your acknowledgment of our security warnings.\n4. Security: We implement standard security measures to protect your information during transmission."
+  },
+  "termsAndConditions": {
+    "title": "Terms and Conditions",
+    "content": "By using our services, you agree to the following terms:\n\n1. Ownership: You must be the legal owner of the device being serviced. We do not support stolen or lost devices.\n2. Service Risks: Software flashing and unlocking carry inherent risks. While we use verified methods, Team Unlocker GSM is not responsible for hardware failure or data loss during the process.\n3. Illegal Activity: Any attempt to use our services for fraudulent or illegal purposes will result in an immediate permanent ban from our platforms.\n4. Verification: We reserve the right to ask for proof of purchase for certain high-security services."
+  },
+  "refundPolicy": {
+    "title": "Refund Policy",
+    "content": "We strive for 100% success. If a service cannot be completed, the following apply:\n\n1. Success Guarantee: If we are unable to fulfill your request due to a technical error on our side, a full refund will be issued.\n2. Non-Refundable Scenarios: No refunds are provided if the device has hardware damage, if the user provides incorrect information (wrong model/IMEI), or if the user cancels the process after it has already started.\n3. Processing Time: Approved refunds are processed within 24-48 hours via the original payment method used."
+  }
+}

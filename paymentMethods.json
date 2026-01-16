@@ -1,0 +1,22 @@
+{
+  "global": {
+    "title": "Global Users",
+    "methods": [
+      { "name": "Bybit", "icon": "fa-wallet" },
+      { "name": "Binance", "icon": "fa-bitcoin-sign" },
+      { "name": "Wise", "icon": "fa-globe" },
+      { "name": "Remotly", "icon": "fa-paper-plane" },
+      { "name": "Any Crypto", "icon": "fa-coins" },
+      { "name": "USDT", "icon": "fa-circle-dollar-to-slot" }
+    ]
+  },
+  "india": {
+    "title": "Indian Users",
+    "methods": [
+      { "name": "PhonePe", "icon": "fa-mobile-screen" },
+      { "name": "GPay", "icon": "fa-google-pay" },
+      { "name": "Paytm", "icon": "fa-credit-card" },
+      { "name": "UPI", "icon": "fa-building-columns" }
+    ]
+  }
+}
